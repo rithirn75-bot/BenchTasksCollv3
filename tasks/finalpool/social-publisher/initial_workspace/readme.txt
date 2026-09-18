@@ -1,1 +1,1 @@
-initial workspace for social-publisher
+Initial workspace for social-publisher

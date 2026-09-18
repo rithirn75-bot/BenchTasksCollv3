@@ -1,1 +1,1 @@
-groundtruth workspace for subtitle-generator
+Groundtruth data for subtitle-generator

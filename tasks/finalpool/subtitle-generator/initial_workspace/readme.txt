@@ -1,1 +1,1 @@
-initial workspace for subtitle-generator
+Initial workspace for subtitle-generator

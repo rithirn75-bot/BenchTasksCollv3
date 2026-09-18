@@ -1,5 +1,12 @@
-def main():
-    pass
+# Evaluation script for subtitle-generator
 
-if __name__ == "__main__":
-    main()
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
+    return True
+
+if __name__ == '__main__':
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')

@@ -1,4 +1,4 @@
-# Evaluation script for content-scheduler
+# Evaluation script for crm-system
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

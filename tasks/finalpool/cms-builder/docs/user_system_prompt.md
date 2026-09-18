@@ -1,3 +1,1 @@
-# User System Prompt
-
-I need you to help me with cms-builder.
+This is an user system prompt for cms-builder
